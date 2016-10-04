@@ -9,6 +9,8 @@
 // @match        http://www.kukuku.cc/t/*
 // @match        http://www.kukuku.cc/*
 // @grant        none
+// @note         本脚本已停止更新
+// @note         开源地址:https://github.com/zhihaofans/Acfun/blob/master/Stop-Updating-JavaScript/nimingban.imagesearch.js
 // @note         Greasyfork地址:https://greasyfork.org/zh-CN/scripts/21115
 // ==/UserScript==
 var setting_show = 0;
