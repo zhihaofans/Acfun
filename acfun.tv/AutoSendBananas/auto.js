@@ -1,16 +1,19 @@
 // ==UserScript==
 // @name         Acfun自动投香蕉
 // @namespace    http://zhihaofans.com
-// @version      0.0.5
-// @description  Acfun自动投香蕉
+// @version      0.0.7
+// @description  在Acfun自动投香蕉
 // @author       zhihaofans
 // @match        http://www.acfun.tv/v/*
 // @match        http://www.acfun.tv/a/*
 // @match        http://www.aixifan.com/a/*
 // @match        http://www.aixifan.com/v/*
 // @grant        none
-// @note         V0.0.5：文章区改为1蕉
+// @note         本脚本已停止更新
+// @note         Github开源地址:https://github.com/zhihaofans/Acfun/blob/master/acfun.tv/AutoSendBananas/auto.js
+// @note         Greasyfork地址:https://greasyfork.org/zh-CN/scripts/22843
 // @icon         http://cdn.aixifan.com/ico/favicon.ico
+// @license      MIT
 // ==/UserScript==
 function getCookie(c_name) {
     if (document.cookie.length > 0) {
