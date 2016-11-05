@@ -2,7 +2,7 @@
 # -*-coding:utf-8 -*-
 # ProjectName:A岛串备份
 # Author:zhihaofans
-# Github:https://github.com/zhihaofans/acfun/blob/master/h.nimingban.com/AdaoThreadBackup.py
+# Github:https://github.com/zhihaofans/acfun/blob/master/h.nimingban.com/AdaoThreadBackup/AdaoThreadBackup.py
 # PythonVersion:2.x
 import urllib
 import urllib2
