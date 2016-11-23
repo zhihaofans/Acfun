@@ -9,7 +9,7 @@ ACfun
 
 Acfun
 ------
-- [ACfun Api](https://github.com/zhihaofans/acfun/blob/master/acfun.tv/api.md)
+- [ACfun Api](https://github.com/zhihaofans/API/blob/master/API/ACFUN.md)
 
 匿名版
 ------
